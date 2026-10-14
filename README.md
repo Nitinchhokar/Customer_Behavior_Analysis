@@ -96,7 +96,7 @@ The Power BI dashboard includes:
 
 
 ## Author
-HARSHIT GUPTA
+NITIN CHHOKAR
 
 ## Notes
 
